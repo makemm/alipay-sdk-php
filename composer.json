@@ -1,0 +1,13 @@
+{
+    "name": "makemm/alipay",
+    "description": "alipay app pay sdk",
+    "type": "library",
+    "license": "PHP",
+    "authors": [
+        {
+            "name": "MakeMM",
+            "email": "mail@makemm.co"
+        }
+    ],
+    "require": {}
+}
