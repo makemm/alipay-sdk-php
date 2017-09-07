@@ -9,7 +9,7 @@ use Makemm\Alipay\SignData;
 use Makemm\Alipay\EncryptParseItem;
 
 
-class AopClient {
+class Aop {
 
 	public $logdir = '';
 

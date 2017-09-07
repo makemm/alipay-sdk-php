@@ -9,5 +9,10 @@
             "email": "mail@makemm.co"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Makemm\\Alipay\\": "src/"
+        }
+    }
 }
